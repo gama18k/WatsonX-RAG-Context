@@ -1,4 +1,4 @@
-# Assistente Virtual com IBM WatsonX.ai
+# RAG com IBM WatsonX.ai
 
 Este projeto implementa um assistente virtual utilizando IBM WatsonX.ai, arquitetura RAG (Retrieval-Augmented Generation) e modelos de linguagem avançados (LLaMA 3 70B Instruct).  
 
